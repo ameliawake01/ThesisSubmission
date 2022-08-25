@@ -1,0 +1,14 @@
+Soil Taxonomy,Group,ResponseRatio
+Inceptisol,Total Community,0.1259
+Mollisol,Total Community,-0.1768
+Spodosol,Total Community,-0.2285
+Inceptisol,Prokaryotes,0.0904
+Mollisol,Prokaryotes,-0.1224
+Spodosol,Prokaryotes,-0.4478
+Inceptisol,Eukaryotes,0.2686
+Mollisol,Eukaryotes,-0.2121
+Spodosol,Eukaryotes,0.0223
+Inceptisol,Bacteria,0.0939
+Mollisol,Bacteria,-0.12
+Spodosol,Bacteria,-0.1553
+Spodosol,Archaea,-0.3041

@@ -1,0 +1,19 @@
+Metric,Treatment,Group,ResponseRatio
+Diversity,Intermediate,Total Community,-0.0091
+Diversity,Intermediate,Prokaryotes,-0.0092
+Diversity,Intermediate,Eukaryotes,0.0007
+Diversity,Organic,Total Community,0.0429
+Diversity,Organic,Prokaryotes,0.0406
+Diversity,Organic,Eukaryotes,0.0001
+Diversity,Conservation,Total Community,0.0409
+Diversity,Conservation,Prokaryotes,0
+Diversity,Conservation,Eukaryotes,0
+Abundance,Intermediate,Total Community,-0.0068
+Abundance,Intermediate,Prokaryotes,-0.0068
+Abundance,Intermediate,Bacteria,-0.0078
+Abundance,Intermediate,Archaea,0.0011
+Abundance,Organic,Total Community,0.1383
+Abundance,Organic,Prokaryotes,0.0703
+Abundance,Organic,Bacteria,0.0945
+Abundance,Organic,Archaea,-0.1367
+Abundance,Conservation,Total Community,0.0213

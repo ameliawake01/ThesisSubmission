@@ -1,0 +1,7 @@
+Metric,Treatment,RR,Ci.lb,Ci.ub
+Diversity,Organic,0.0429,0.0023,0.0834
+Diversity,Intermediate,-0.0091,-0.0173,-0.0008
+Diversity,Conservation,0.0409,-0.0628,0.1446
+Abundance,Organic,0.138,0.0478,0.2289
+Abundance,Intermediate,-0.0068,-0.0095,-0.004
+Abundance,Conservation,0.0213,0.0166,0.0259
